@@ -102,6 +102,7 @@ function total() {
 // trying to see if else or != would be better to solve
 // using alert/consolelog instead of return doesnt break it with the else statement
 // changed the else to esle if and added a false declaration.  the remove item tests passes but not the error
+// Got help and needed to remove the else and place the return at the end of the function 
 
 function removeFromCart(item) {
   for (var i = 0; i < cart.length; i++) {
