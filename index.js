@@ -113,18 +113,6 @@ function removeFromCart(item) {
   return `That item is not in your cart.`
 }
 
-
-// if (false)
-
-// if (cart[i].itemName != item) {
-//     return "hello" }
-
-
-
-
-
-
-
 // I used NaN to test if the card is actual numbers first.  IF true spit out that message
 // First I Set the var totalPrice so the value of the current cart was stored.  once the else hits
 // the cart variable is cleard first and the message is triggerd referencing the stored total value
