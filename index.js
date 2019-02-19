@@ -115,6 +115,8 @@ function removeFromCart(item) {
 }
 
 
+// if (false)
+
 // if (cart[i].itemName != item) {
 //     return "hello" }
 
